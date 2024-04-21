@@ -11,8 +11,8 @@
     <a target="_blank" style="text-decoration: none;">Yisheng Lv<sup>2,3</sup></a>&nbsp;&nbsp;
     <a target="_blank" style="text-decoration: none;">Jing Liu<sup>1,3†</sup></a>&nbsp;&nbsp;
 	<br>
-<sup>1</sup>Laboratory of Cognition and Decision Intelligence for Complex Systems, CASIA&nbsp;&nbsp;&nbsp;
-<sup>2</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA&nbsp;&nbsp;&nbsp;
+<sup>1</sup>Laboratory of Cognition and Decision Intelligence for Complex Systems, CASIA&nbsp;&nbsp;&nbsp;<br>
+<sup>2</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA&nbsp;&nbsp;&nbsp;<br>
 <sup>3</sup>School of Artificial Intelligence, University of Chinese Academy of Sciences&nbsp;&nbsp;&nbsp;
 </p>
 
