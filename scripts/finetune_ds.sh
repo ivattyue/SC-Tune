@@ -8,7 +8,7 @@ MASTER_ADDR=localhost
 MASTER_PORT=6001
 
 # set the paths
-MODEL="path to the Qwen-VL-Chat checkpoint"
+MODEL="Qwen-VL-Chat/"
 IMAGE_DIR="path to the object365 image directory"
 
 # SC-Tune hyperparameters

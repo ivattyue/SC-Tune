@@ -39,15 +39,15 @@ conda activate sc_tune
 pip install -r requirements.txt
 ```
 
-### Dataset
+### Data
 
-Download Object365 images.
+Download the [Qwen-VL-Chat checkpoint](https://huggingface.co/Qwen/Qwen-VL-Chat/tree/main) (10 *.bin files in total) to the path `Qwen-VL-Chat/` and [Object365 images](https://www.objects365.org/download.html).
 
 ## Get Started
 
 ### Configs
 
-Set the paths of Qwen-VL-Chat and Object365 images in `scripts/finetune_ds.sh`. Other hyperparameters can also be found in this file.
+Set the path of Object365 images in `scripts/finetune_ds.sh`. Other hyperparameters can also be found in this file.
 
 ### Running
 
