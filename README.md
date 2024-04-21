@@ -43,7 +43,8 @@ pip install -r requirements.txt
 
 Download the [Qwen-VL-Chat checkpoint](https://huggingface.co/Qwen/Qwen-VL-Chat/tree/main) (10 *.bin files in total) to the path `Qwen-VL-Chat/` and [Object365 images](https://www.objects365.org/download.html).
 
-> [!NOTE] We have modified the codes in `Qwen-VL-Chat/visual.py`. Please replace the original file with the one in this repo if necessary.
+> [!NOTE]
+> We have modified the codes in `Qwen-VL-Chat/visual.py`. Please replace the original file with the one in this repo if necessary.
 
 ## Get Started
 
