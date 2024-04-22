@@ -1,15 +1,15 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;"> SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models </h1>
 
 <p align='center' style="text-align:center;font-size:1.25em;">
-    <a target="_blank" style="text-decoration: none;">Tongtian Yue<sup>1,3*</sup></a>&nbsp;,&nbsp;
+    <a href="https://scholar.google.com/citations?user=OrICiVQAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Tongtian Yue<sup>1,3*</sup></a>&nbsp;,&nbsp;
     <a href="https://scholar.google.com/citations?user=IOiro9MAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Jie Cheng<sup>2,3*</sup></a>&nbsp;,&nbsp;
-    <a target="_blank" style="text-decoration: none;">Longteng Guo<sup>1,3*</sup></a>&nbsp;,&nbsp;
-    <a target="_blank" style="text-decoration: none;">Xingyuan Dai<sup>2,3</sup></a>&nbsp;,&nbsp;
-    <a target="_blank" style="text-decoration: none;">Zijia Zhao<sup>1,3</sup></a>&nbsp;,&nbsp; 
-	<a target="_blank" style="text-decoration: none;">Xingjian He<sup>1,3</sup></a>&nbsp;&nbsp;
-    <a target="_blank" style="text-decoration: none;">Gang Xiong<sup>2,3</sup></a>&nbsp;&nbsp;
-    <a target="_blank" style="text-decoration: none;">Yisheng Lv<sup>2,3</sup></a>&nbsp;&nbsp;
-    <a target="_blank" style="text-decoration: none;">Jing Liu<sup>1,3†</sup></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=OaGRHWYAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Longteng Guo<sup>1,3*</sup></a>&nbsp;,&nbsp;
+    <a href="https://scholar.google.com/citations?user=R4Rn7dMAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Xingyuan Dai<sup>2,3</sup></a>&nbsp;,&nbsp;
+    <a href="https://scholar.google.com/citations?user=g_9KoD8AAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Zijia Zhao<sup>1,3</sup></a>&nbsp;,&nbsp; 
+    <a href="https://scholar.google.com/citations?user=XWunp9YAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Xingjian He<sup>1,3</sup></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=F4ypDHIAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Gang Xiong<sup>2,3</sup></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=RRKqjKAAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Yisheng Lv<sup>2,3</sup></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=sOI-S7oAAAAJ&hl=zh-CN" target="_blank" style="text-decoration: none;">Jing Liu<sup>1,3†</sup></a>&nbsp;&nbsp;
 	<br>
 <sup>1</sup>Laboratory of Cognition and Decision Intelligence for Complex Systems, CASIA&nbsp;&nbsp;&nbsp;<br>
 <sup>2</sup>State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA&nbsp;&nbsp;&nbsp;<br>
